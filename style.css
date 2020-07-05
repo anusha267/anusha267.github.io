@@ -1,0 +1,64 @@
+body{
+	background-color: #283342;
+}
+.ex1
+{
+	color: #f7f7f7;
+	text-decoration-color:#f7f7f7;
+}
+.ex1:hover
+{
+	color: #09FFD7;
+	text-decoration-color: #09FFD7;
+	text-shadow: 2px 2px 2px #FA194A;
+
+}
+.ex3
+{
+	color: #f7f7f7;
+	text-decoration-color:#f7f7f7;
+}
+.ex3:hover
+{
+	color: #09FFD7;
+	text-decoration-color: #09FFD7;
+
+}
+.ex2:hover
+{
+	color: cyan;
+}
+.b
+{
+	background-color: #4B505B;
+}
+.home:hover::before
+{
+	content:"Home";
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+}
+.about:hover::before
+{
+	content:"About";
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+}
+.skills:hover::before
+{
+	content:"Skills";
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+}
+.works:hover::before
+{
+	content:"Works";
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+}
+.contact:hover::before
+{
+	content:"Contact";
+	font-size: 20px;
+	font-family: 'Poppins', sans-serif;
+}
