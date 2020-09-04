@@ -1,6 +1,6 @@
 # anusha267.github.io
 
-![how to make a chat app with flutter by theindianappguy](img/My Picture.jpeg)
+![how to make a chat app with flutter by theindianappguy](https://github.com/anusha267/anusha267.github.io/blob/master/img/My%20Picture.jpeg)
 
 Installation
 
